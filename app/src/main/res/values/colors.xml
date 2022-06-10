@@ -5,4 +5,5 @@
     <color name="blue_light">#17bed0</color>
     <color name="blue_dark">#1786D0</color>
     <color name="dark_grey_surface">#4b5166</color>
+    <color name="ic_launcher_background">#4B5166</color>
 </resources>
